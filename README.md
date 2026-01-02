@@ -20,16 +20,12 @@
 ## Aloha  👋 ![](https://komarev.com/ghpvc/?username=MichaelAkridge-NOAA&label=)
 
 I build **AI/ML solutions for marine ecosystems**—from **data + annotation conventions** to **model development/training**, **batch inference**, and **deployments** (APIs + lightweight apps) that scientists can actually use.
-
 - 🌊 Focus: optical datasets, benthic habitats, 3D/orthomosaic products
-- 🧠 ML: detection / segmentation / classification
-- 🧰 Delivery: reproducible pipelines, model cards, and practical tooling for teams
-
+- 🧠 AI/ML: for detection / segmentation / classification
+- 🧰 Delivery: reproducible pipelines, models, and practical tools for teams
 <div align="center">
-  
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:00A6D6&height=110&section=footer"
   alt="footer"
 />
-
 </div>
