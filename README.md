@@ -3,7 +3,7 @@
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:00A6D6&height=140&section=header&text=Michael%20Akridge&fontSize=44&fontColor=FFFFFF&animation=fadeIn"
   alt="header"/>
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&size=18&center=true&vCenter=true&width=760&lines=Machine+Learning+AI+%7C+Computer+Vision+%7C+Photogrammetry;Coral+%26+AI+Models+%7C+Data+pipelines+%7C+APIs+%7C+Dashboards;Building+reproducible+workflows+for+science"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&size=18&center=true&vCenter=true&width=760&lines=Machine+Learning+AI+%7C+Computer+Vision+%7C+Photogrammetry;AI+Models+%7C+Data+pipelines+%7C+APIs+%7C+Dashboards;Building+reproducible+workflows+for+science"
   alt="typing intro"/>
 <br/>
 <!-- Quick badges (edit as you like) -->
