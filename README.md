@@ -14,11 +14,11 @@
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=MichaelAkridge-NOAA&label" />
 <br/>
 </div>
-  
-## Aloha  👋 ![](https://komarev.com/ghpvc/?username=MichaelAkridge-NOAA&label=)
 
+## Aloha  👋
 I build **AI/ML solutions for marine ecosystems**—from **data + annotation conventions** to **model development/training**, **batch inference**, and **deployments** (APIs + lightweight apps) that scientists can actually use.
 - 🌊 Focus: optical datasets, benthic habitats, 3D/orthomosaic products
 - 🧠 AI/ML: for detection / segmentation / classification
